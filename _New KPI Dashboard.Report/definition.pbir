@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../_New KPI Dashboard.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
